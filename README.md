@@ -1,4 +1,15 @@
-# Type on Strap 
+# My website
+# [Source github theme](https://jekyll-themes.com/type-on-strap/)
+# [Source github theme](https://jekyll-themes.com/modern-resume/)
+
+***Follow this task for lacally run this jekyll theme.***
+*** 1. [Ruby install video](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc) ***
+*** 2. [Create site](https://www.youtube.com/watch?v=pxua_1vyFck) ***
+3. git clone my project: 
+4. cd this project
+5. gem install jekyll
+6. bundle install
+7. bundle exec jekyll serve 
 
 [![Build Status](https://travis-ci.org/sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/sylhare/Type-on-Strap)
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
