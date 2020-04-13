@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
 url: "https://sylhare.github.io"
@@ -51,3 +52,6 @@ exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 6873737c5b0d95565d3fbfb1494b54ea0d430632
