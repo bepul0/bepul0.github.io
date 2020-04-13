@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://Bepul-Hossain.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
@@ -13,7 +13,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/Bepul-Hossain">Type on Strap</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
@@ -51,7 +51,7 @@ exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "
           "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+remote_theme: Bepul-Hossain                     # If using as a remote_theme in github
 =======
 theme: jekyll-theme-minimal
 >>>>>>> 6873737c5b0d95565d3fbfb1494b54ea0d430632
