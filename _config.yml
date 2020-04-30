@@ -2,6 +2,7 @@
 baseurl: ""
 url: "https://Bepul-Hossin.github.io"
 
+
 # THEME-SPECIFIC CONFIGURATION
 title: Md. Bepul Hossain # site's title
 description: "A website with blog posts and pages" # used by search engines
@@ -12,7 +13,7 @@ favicon: assets/favicon.ico # Icon displayed in the tab
 header_text: Welcome my portfolio site # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/Bepul-Hossain/Bepul-Hossain.github.io">My github</a>
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 # Blog
 excerpt: true # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true

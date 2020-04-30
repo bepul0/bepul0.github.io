@@ -5,10 +5,25 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
+I am Md. Bepul Hossain, student of the Department of [Computer Science and Engineering (C.S.E), University of Rajshahi](http:/www.ru.ac.bd/cse/). I joined this department in February, 2017. I am very much passionate to learn/think how to solve real-life problem. I want to work on web development fields.
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+## What I know?
+As a result of my perpetual curiosity, I have practical experience with a wide range of technologies including:
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+JavaScript • Node.js • Express.js • Mongodb • Robo 3 • MySql • Java • C++ • C • HTML • CSS • Bootstrap  • React • Redux
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+
+For use with concepts such as:
+
+Software Engineering • Web Application Development, <em>and more!</em>
+
+## Curriculum Vitae
+[Curriculum Vitae](https://drive.google.com/open?id=1VUYAj7n_rvCKPLRLsxYNyqmx_kqTQVw2).
+
+## Contact
+You can reach me through email at bepul.cse.ru@gmail.com,
+
+LinkedIn Profile: [Bepul Hossain](https://www.linkedin.com/in/bepul-hossain-77b23b18b/)
+
+Github Profile: [Bepul-Hossain](https://github.com/Bepul-Hossain)
+
