@@ -17,7 +17,7 @@ Software Engineering • Web Application Development, <em>and more!</em>
 
 **************
 ## <center>Curriculam Vitae & Contact</center>
-Curriculam Vitae: [<ins>*Download here*</ins>](https://drive.google.com/file/d/1bdIfKtBJg-lPGGInXZm4dVHVP0bMK5vh/view?usp=sharing)
+Curriculam Vitae: [<ins>*Download here*</ins>](https://drive.google.com/open?id=1bwam6eEiX7HeqsWvOmxy5cNcKJRl2E9C)
 
 Email:  <ins>**bepul.cse.ru@gmail.com**</ins>
 
