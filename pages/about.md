@@ -17,9 +17,8 @@ I am most skilled in: Node.js, express.js, react, mongo DB and Heroku Github.
 ## <center>Curriculam Vitae & Contact</center>
 Curriculam Vitae: [<ins>*Download here*</ins>](https://drive.google.com/open?id=1C-Yb_zPzqpS9G32s_Ch_ZTLp1nWIGtkR)
 
-Email:  <ins>**bepul.cse.ru@gmail.com**</ins>
-
 LinkedIn Profile: [<ins>*Bepul Hossain*</ins>](https://www.linkedin.com/in/bepul-hossain-77b23b18b/)
 
 Github Profile: [<ins>*Bepul-Hossain*</ins>](https://github.com/Bepul-Hossain)
 
+Email:  <ins>**bepul.cse.ru@gmail.com**</ins>
