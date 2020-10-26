@@ -6,12 +6,13 @@
     <title>Resume</title>
     <link rel="stylesheet" href="css/slide-show.css" />
     <link rel=" stylesheet" href="css/nav.css" />
+    <link rel="stylesheet" href="css/about.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
     <link rel="stylesheet" href="css/styles.css" />
-    
+    <link rel="stylesheet" href="css/main.css" />
   </head>
 
   <body>
@@ -90,7 +91,7 @@
         <a class="next" onclick="plusSlides(1)">&#10095;</a>
       </div>
       <br />
-      <div style="text-align: center;">
+      <div style="text-align: center">
         <span class="dot" onclick="currentSlide(1)"></span>
         <span class="dot" onclick="currentSlide(2)"></span>
         <span class="dot" onclick="currentSlide(3)"></span>
@@ -105,7 +106,7 @@
       <a href="#photos">Photos</a>
       <a href="#"
         ><img
-          style="background-color: yellow;"
+          style="background-color: yellow"
           src="https://img.icons8.com/color/16/000000/circled-up-2.png"
       /></a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -113,76 +114,106 @@
       </a>
     </nav>
 
-    <div style="padding-left: 16px;">
-      <h2>Responsive Topnav Example</h2>
-      <p>Resize the browser window to see how it works.</p>
-    </div>
-
     <main>
-      <p>
-        This topic contains the following modules, in a suggested order for
-        working through them. You should definitely start with the first one.
-        CSS first steps CSS (Cascading Style Sheets) is used to style and lay
-        out web pages — for example, to alter the font, color, size, and spacing
-        of your content, split it into multiple columns, or add animations and
-        other decorative features. This module provides a gentle beginning to
-        your path towards CSS mastery with the basics of how it works, what the
-        syntax looks like, and how you can start using it to add styling to
-        HTML. CSS building blocks This module carries on where CSS first steps
-        left off — now you've gained familiarity with the language and its
-        syntax, and got some basic experience with using it, its time to dive a
-        bit deeper. This module looks at the cascade and inheritance, all the
-        selector types we have available, units, sizing, styling backgrounds and
-        borders, debugging, and lots more. The aim here is to provide you with a
-        toolkit for writing competent CSS and help you understand all the
-        essential theory, before moving on to more specific disciplines like
-        text styling and CSS layout. Styling text With the basics of the CSS
-        language covered, the next CSS topic for you to concentrate on is
-        styling text — one of the most common things you'll do with CSS. Here we
-        look at text styling fundamentals, including setting font, boldness,
-        italics, line and letter spacing, drop shadows and other text features.
-        We round off the module by looking at applying custom fonts to your
-        page, and styling lists and links. CSS layout At this point we've
-        already looked at CSS fundamentals, how to style text, and how to style
-        and manipulate the boxes that your content sits inside. Now it's time to
-        look at how to place your boxes in the right place in relation to the
-        viewport, and one another. We have covered the necessary prerequisites
-        so we can now dive deep into CSS layout, looking at different display
-        settings, modern layout tools like flexbox, CSS grid, and positioning,
-        and some of the legacy techniques you might still want to know about.
-      </p>
-      <p>
-        This topic contains the following modules, in a suggested order for
-        working through them. You should definitely start with the first one.
-        CSS first steps CSS (Cascading Style Sheets) is used to style and lay
-        out web pages — for example, to alter the font, color, size, and spacing
-        of your content, split it into multiple columns, or add animations and
-        other decorative features. This module provides a gentle beginning to
-        your path towards CSS mastery with the basics of how it works, what the
-        syntax looks like, and how you can start using it to add styling to
-        HTML. CSS building blocks This module carries on where CSS first steps
-        left off — now you've gained familiarity with the language and its
-        syntax, and got some basic experience with using it, its time to dive a
-        bit deeper. This module looks at the cascade and inheritance, all the
-        selector types we have available, units, sizing, styling backgrounds and
-        borders, debugging, and lots more. The aim here is to provide you with a
-        toolkit for writing competent CSS and help you understand all the
-        essential theory, before moving on to more specific disciplines like
-        text styling and CSS layout. Styling text With the basics of the CSS
-        language covered, the next CSS topic for you to concentrate on is
-        styling text — one of the most common things you'll do with CSS. Here we
-        look at text styling fundamentals, including setting font, boldness,
-        italics, line and letter spacing, drop shadows and other text features.
-        We round off the module by looking at applying custom fonts to your
-        page, and styling lists and links. CSS layout At this point we've
-        already looked at CSS fundamentals, how to style text, and how to style
-        and manipulate the boxes that your content sits inside. Now it's time to
-        look at how to place your boxes in the right place in relation to the
-        viewport, and one another. We have covered the necessary prerequisites
-        so we can now dive deep into CSS layout, looking at different display
-        settings, modern layout tools like flexbox, CSS grid, and positioning,
-        and some of the legacy techniques you might still want to know about.
-      </p>
+      <section>
+        <img
+          class="about"
+          id="myimg"
+          src="img/MyPicture.jpg"
+          alt="Md. Bepul Hossain"
+        />
+        <p><strong>Summary:</strong>
+          I am a self-motivated passionate developer and feel true love for
+          coding. I am a Junior full stack web developer. I have experience
+          making software and web apps. I solved more than 200+ realworld
+          problems in several online judges like Hacker Rank, Light OJ and URI.
+          I solved maximum problems using JavaScript(node.js) programming
+          language. In last 1 years, I totally focused on web app development. I
+          am most skilled in: Node.js, express.js, react, bootstrap 4 and mongo
+          DB.
+        </p>
+      </section>
+      <section id="intro" class="section scrollspy full-height">
+        <div class="overlay"></div>
+        <div class="container">
+          <div class="col-md-9">
+            <div class="content section-padding valign" style="margin-left: 10%; margin-top: 50px;">
+              <div class="caption">
+                <h2>Hi, I'm <span class="teal">Md. Bepul Hossain</span></h2>
+                <h5 style="color:#fff">A <span class="typing" style="font-weight: 300; color:#004d40"></span></h5>
+                <!-- <h5 style="color:#00796b">A <span class="typing" style="font-weight: 300; color:#fff"></span></h5> -->
+                <h5>Self-driven, quick starter, passionate programmer with a curious mind who loves solving a very complex, very challenging real-world problems.</h5>
+              </div>
+              <div class="social">
+                <a href="http://linkedin.com/in/varadbhogayata" target="_blank">
+                  <button class="icon-btn linkedin">
+                    <i class="fa fa-linkedin"></i>
+                  </button>
+                </a>
+                <a href="https://github.com/varadbhogayata/" target="_blank">
+                  <button class="icon-btn github">
+                    <i class="fa fa-github"></i>
+                  </button>
+                </a>
+  
+                <a href="https://angel.co/u/varad_bhogayata" target="_blank">
+                  <button class="icon-btn angellist">
+                    <i class="fa fa-angellist"></i>
+                  </button>
+                </a>
+  
+                <!-- <a href="http://linkedin.com/in/varadbhogayata" target="_blank">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+  
+                    </span>
+                </a> -->
+              </div>
+              <div class='buttons'>
+                <a href="#about" class="readme">Read More</a>
+                <a href="#contact" class="contactme">Contact Me</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div>
+        <p>
+          This topic contains the following modules, in a suggested order for
+          working through them. You should definitely start with the first one.
+          CSS first steps CSS (Cascading Style Sheets) is used to style and lay
+          out web pages — for example, to alter the font, color, size, and
+          spacing of your content, split it into multiple columns, or add
+          animations and other decorative features. This module provides a
+          gentle beginning to your path towards CSS mastery with the basics of
+          how it works, what the syntax looks like, and how you can start using
+          it to add styling to HTML. CSS building blocks This module carries on
+          where CSS first steps left off — now you've gained familiarity with
+          the language and its syntax, and got some basic experience with using
+          it, its time to dive a bit deeper. This module looks at the cascade
+          and inheritance, all the selector types we have available, units,
+          sizing, styling backgrounds and borders, debugging, and lots more. The
+          aim here is to provide you with a toolkit for writing competent CSS
+          and help you understand all the essential theory, before moving on to
+          more specific disciplines like text styling and CSS layout. Styling
+          text With the basics of the CSS language covered, the next CSS topic
+          for you to concentrate on is styling text — one of the most common
+          things you'll do with CSS. Here we look at text styling fundamentals,
+          including setting font, boldness, italics, line and letter spacing,
+          drop shadows and other text features. We round off the module by
+          looking at applying custom fonts to your page, and styling lists and
+          links. CSS layout At this point we've already looked at CSS
+          fundamentals, how to style text, and how to style and manipulate the
+          boxes that your content sits inside. Now it's time to look at how to
+          place your boxes in the right place in relation to the viewport, and
+          one another. We have covered the necessary prerequisites so we can now
+          dive deep into CSS layout, looking at different display settings,
+          modern layout tools like flexbox, CSS grid, and positioning, and some
+          of the legacy techniques you might still want to know about.
+        </p>
+      </div>
+
       <p>
         This topic contains the following modules, in a suggested order for
         working through them. You should definitely start with the first one.
