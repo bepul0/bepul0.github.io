@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-pages/static/css/main.6ba60ba8.chunk.css",
+    "main.js": "/react-pages/static/js/main.6567eb8e.chunk.js",
+    "main.js.map": "/react-pages/static/js/main.6567eb8e.chunk.js.map",
+    "runtime-main.js": "/react-pages/static/js/runtime-main.a3bc6477.js",
+    "runtime-main.js.map": "/react-pages/static/js/runtime-main.a3bc6477.js.map",
+    "static/js/2.20b43afa.chunk.js": "/react-pages/static/js/2.20b43afa.chunk.js",
+    "static/js/2.20b43afa.chunk.js.map": "/react-pages/static/js/2.20b43afa.chunk.js.map",
+    "index.html": "/react-pages/index.html",
+    "precache-manifest.9a316ff07aa1f1da174b672f9cc211c4.js": "/react-pages/precache-manifest.9a316ff07aa1f1da174b672f9cc211c4.js",
+    "service-worker.js": "/react-pages/service-worker.js",
+    "static/css/main.6ba60ba8.chunk.css.map": "/react-pages/static/css/main.6ba60ba8.chunk.css.map",
+    "static/js/2.20b43afa.chunk.js.LICENSE": "/react-pages/static/js/2.20b43afa.chunk.js.LICENSE",
+    "static/media/style.css": "/react-pages/static/media/cork-wallet.c93975e3.png",
+    "static/media/desktop13.jpg": "/react-pages/static/media/desktop13.b5428205.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3bc6477.js",
+    "static/js/2.20b43afa.chunk.js",
+    "static/css/main.6ba60ba8.chunk.css",
+    "static/js/main.6567eb8e.chunk.js"
+  ]
+}
