@@ -9,10 +9,10 @@ class SideNav extends Component {
         <div className="my-name">
           <a id="name-link" href="#hero" onClick={ (e) => this.props.onClickNavLink(e)}>
             <div className="first-name">
-              <span className="name-cap">M</span><span className="name-back">yles</span>
+              <span className="name-cap">B</span><span className="name-back">epul</span>
             </div>
             <div className="last-name">
-              <span className="name-cap">C</span><span className="name-back">arey</span>
+              <span className="name-cap">H</span><span className="name-back">ossain</span>
             </div>
           </a>
         </div>
