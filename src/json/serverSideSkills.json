@@ -8,11 +8,6 @@
         "skillName": "Node"
       },
       {
-        "id": 2,
-        "skill": "/images/java.png",
-        "skillName": "Java"
-      }, 
-      {
         "id": 3,
         "skill": "/images/express2.png",
         "skillName": "Express"

@@ -27,7 +27,7 @@ class Main extends Component {
       <section id="content-wrapper">
         <div id="header" className="fixed-top text-center">
           <a id="header-link" href="#hero">
-          <span id="header-title">Myles Carey</span>
+          <span id="header-title">Md. Bepul Hossain</span>
           <span id="header-sub-title">Full Stack Web Developer / Programmer-Analyst</span>
 
           </a>
