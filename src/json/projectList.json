@@ -41,20 +41,6 @@
     "repoLinkIcon": "fab fa-github-square",
     "linkDesc": "Deployed Site",
     "repoDesc": "GitHub Repo"
-  },
-  {
-    "id": 4,
-    "title": "Presidential Hangman",
-    "img": "/images/word-guess-java.png",
-    "description": "Java version - US President themed word guess game. Work though all 45 served up in random order. Keyboard entry with traditional hangman rules",
-    "tech": "Java, Class Objects & methods, Command Line Interface",
-    "extLink": "",
-    "extLinkIcon": "",
-    "noLinkClass": "no-link",
-    "repoLink": "https://github.com/mylescarey2019/Word-Guess-Java",
-    "repoLinkIcon": "fab fa-github-square",
-    "linkDesc": "",
-    "repoDesc": "GitHub Repo"
   }
 
 ]
