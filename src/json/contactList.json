@@ -1,32 +1,33 @@
 [
   {
     "id": 1,
-    "name": "Myles Carey | 206.618.9956 | Seattle",
+    "name": "Md. Bepul Hossain | 01742406349",
     "icon": "fas fa-mobile-alt",
     "url": "",
     "class": "isDisabled"
   },
   {
     "id": 2,
-    "name": "linkedin.com/in/mylescarey2019",
-    "icon": "fab fa-linkedin",
-    "url": "https://www.linkedin.com/in/mylescarey2019",
-    "class": ""
+    "name": "bepul.cse.ru@gmail.com",
+    "icon": "far fa-envelope",
+    "url": "",
+    "class": "isDisabled"
   },
   {
     "id": 3,
-    "name": "github.com/mylescarey2019",
-    "icon": "fab fa-github-square",
-    "url": "https://github.com/mylescarey2019",
+    "name": "linkedin.com/in/mylescarey2019",
+    "icon": "fab fa-linkedin",
+    "url": "https://www.linkedin.com/in/bepul-hossain-77b23b18b/",
     "class": ""
   },
   {
     "id": 4,
-    "name": "mylescarey2019@gmail.com",
-    "icon": "far fa-envelope",
-    "url": "mailto:mylescarey2019@gmail.com?subject=Regarding%20your%20Portfolio",
+    "name": "github.com/Bepul-Hossain",
+    "icon": "fab fa-github-square",
+    "url": "https://github.com/Bepul-Hossain",
     "class": ""
   }
+  
 ]
 
 
