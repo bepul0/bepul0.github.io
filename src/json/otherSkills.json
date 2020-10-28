@@ -1,0 +1,21 @@
+
+  { 
+    "title": "Other",
+    "skills-list": [
+      {
+        "id": 1,
+        "skill": "/images/git.png",
+        "skillName": "Git"
+      },
+      {
+        "id": 2,
+        "skill": "/images/github.png",
+        "skillName": "GitHub"
+      }, 
+      {
+        "id": 3,
+        "skill": "/images/heroku.png",
+        "skillName": "Heroku"
+      }
+    ]
+  }

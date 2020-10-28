@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Md. Bepul Hossain | 01742406349",
+    "icon": "fas fa-mobile-alt",
+    "url": "",
+    "class": "isDisabled"
+  },
+  {
+    "id": 2,
+    "name": "bepul.cse.ru@gmail.com",
+    "icon": "far fa-envelope",
+    "url": "",
+    "class": "isDisabled"
+  },
+  {
+    "id": 3,
+    "name": "linkedin.com/in/mylescarey2019",
+    "icon": "fab fa-linkedin",
+    "url": "https://www.linkedin.com/in/bepul-hossain-77b23b18b/",
+    "class": ""
+  },
+  {
+    "id": 4,
+    "name": "github.com/Bepul-Hossain",
+    "icon": "fab fa-github-square",
+    "url": "https://github.com/Bepul-Hossain",
+    "class": ""
+  }
+  
+]
+
+

@@ -28,7 +28,7 @@ class Main extends Component {
         <div id="header" className="fixed-top text-center">
           <a id="header-link" href="#hero">
           <span id="header-title">Md. Bepul Hossain</span>
-          <span id="header-sub-title">Full Stack Web Developer</span>
+          <span id="header-sub-title">Full Stack Web Developer / Programmer-Analyst</span>
 
           </a>
           <div className="col-lg-12">
