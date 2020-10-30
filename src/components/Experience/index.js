@@ -10,8 +10,7 @@ const Experience = (props) => (
         <ul className="experience-list">
           <li className="text-left">{props.bullet1}</li>
           <li className="text-left">{props.bullet2}</li>
-          <li className="text-left">{props.bullet3}</li>
-          <li className="text-left">{props.bullet4}</li>
+          
         </ul>
       </div>   
     )

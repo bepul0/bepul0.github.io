@@ -96,8 +96,7 @@ class Main extends Component {
                   role={experience.role}
                   bullet1={experience.bullet1}
                   bullet2={experience.bullet2}
-                  bullet3={experience.bullet3}
-                  bullet4={experience.bullet4}
+                  
                 />
               ))}
             </PortfolioSection>
