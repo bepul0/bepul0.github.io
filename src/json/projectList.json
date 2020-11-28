@@ -2,6 +2,20 @@
 [
   {
     "id": 1,
+    "title": "Online shop",
+    "img": "/images/online-shop.png",
+    "description": "Real time shopping application",
+    "tech": "This is a team project using node.js, express.js, mongoose, react.js, bootstrap, reactstrap, styled-components, heroku",
+    "extLink": "https://online-shop21.herokuapp.com/admin",
+    "extLinkIcon": "fas fa-external-link-alt",
+    "noLinkClass": "",
+    "repoLink": "https://github.com/prevision-soft/online-shop",
+    "repoLinkIcon": "fab fa-github-square",
+    "linkDesc": "Deployed Site",
+    "repoDesc": "GitHub Repo"
+  },
+  {
+    "id": 2,
     "title": "Movie creator Application",
     "img": "/images/portfolio-1650.png",
     "description": "This is a CRUD application",
@@ -15,7 +29,7 @@
     "repoDesc": "GitHub Repo"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Authentication using MERN",
     "img": "/images/portfolio-parenttrap.png",
     "description": "This is a simple authentication application using MERN",
@@ -29,7 +43,7 @@
     "repoDesc": "GitHub Repo"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Developer connector",
     "img": "/images/dorm-portfolio.png",
     "description": "Simply use for create a post or comment",
